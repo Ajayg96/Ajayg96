@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="./dev.png" alt="devImage" />
+<img src="./images/dev1.png" alt="devImage" />
 
 <!--
 **Ajayg96/Ajayg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
