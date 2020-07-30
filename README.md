@@ -1,10 +1,8 @@
 ### Hi there 👋
 
 <p>
-   <img src="images/dev1.png" />
+   <img src="images/dev1.png" alt="dev"/>
 </p>
-
-![](images/dev1.png)
 
 <!--
 **Ajayg96/Ajayg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
