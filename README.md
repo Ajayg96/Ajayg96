@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>
-    <img src="images/dev1.png" alt="devImage" width="450" height="450"/>
+   <img src="images/dev1.png" />
 </p>
 
 <!--
