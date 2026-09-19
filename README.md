@@ -4,6 +4,10 @@
    <img src="images/dev1.png" alt="dev"/>
 </p>
 
+- 🚀 **Focus:** Full-stack web & mobile development with integrated AI capabilities
+- 🧠 **Building:** Autonomous agentic workflows, scalable backends, & intuitive interfaces
+- 🛠️ **Approach:** Product-first engineering, system design, and clean architecture
+  
 <!--
 **Ajayg96/Ajayg96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
